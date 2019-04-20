@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Hearth Stone';
+  src: url('HearthStone.woff2') format('woff2'),
+  url('HearthStone.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hearth Stone';
+  src: url('HearthStone.woff2') format('woff2'),
+  url('HearthStone.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-MediumItalic.woff2') format('woff2'),
+  url('Metropolis-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-BoldItalic.woff2') format('woff2'),
+  url('Metropolis-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-RegularItalic.woff2') format('woff2'),
+  url('Metropolis-RegularItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Bold.woff2') format('woff2'),
+  url('Metropolis-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Regular.woff2') format('woff2'),
+  url('Metropolis-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Medium.woff2') format('woff2'),
+  url('Metropolis-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
